@@ -1,5 +1,5 @@
-host = '127.0.0.1'
-port = '3306'
-username = 'root'
-password = ''
-dbname = 'financial'
+host = "10.10.11.2"
+port = "23306"
+username = "qi"
+password = "password"
+dbname = "SH_Stock_Exchange"

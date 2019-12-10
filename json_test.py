@@ -9,13 +9,6 @@ password = ''
 dbname = 'financial'
 tbname = 'data'
 
-# str = [
-#     [20190101, 2],
-#     [20190102, 2]
-# ]
-#
-# print(str)
-
 data_json = []
 
 db = pymysql.connect(host, username, password, dbname)
