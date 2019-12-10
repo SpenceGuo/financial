@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e240a6a-5b96-41d9-ae2e-bf4cbf6744dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Bar/bar_chart_display_delay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Bar/finance_indices_2002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Bar/mixed_bar_and_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Bar/multiple_y_axes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/basic_candlestick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_brush.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/echarts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/echarts_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/render.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_chart.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +187,7 @@
       <updated>1575637752128</updated>
       <workItem from="1575637753336" duration="4303000" />
       <workItem from="1575885718818" duration="5235000" />
-      <workItem from="1575953251754" duration="11249000" />
+      <workItem from="1575953251754" duration="11560000" />
     </task>
     <servers />
   </component>
