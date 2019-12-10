@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e240a6a-5b96-41d9-ae2e-bf4cbf6744dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SH_stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/SH_stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/basic_candlestick.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/basic_candlestick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/basic_candlestick.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/basic_candlestick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_brush.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyecharts_gallery/Candlestick/professional_kline_brush.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_candlestick">
+  <component name="RunManager" selected="Python.professional_kline_brush">
     <configuration name="basic_candlestick" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="financial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,9 +167,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.professional_kline_brush" />
         <item itemvalue="Python.basic_candlestick" />
         <item itemvalue="Python.professional_kline_chart" />
-        <item itemvalue="Python.professional_kline_brush" />
         <item itemvalue="Python.multiple_y_axes" />
         <item itemvalue="Python.mixed_bar_and_line" />
       </list>
@@ -190,7 +187,7 @@
       <updated>1575637752128</updated>
       <workItem from="1575637753336" duration="4303000" />
       <workItem from="1575885718818" duration="5235000" />
-      <workItem from="1575953251754" duration="12753000" />
+      <workItem from="1575953251754" duration="14909000" />
     </task>
     <servers />
   </component>
@@ -228,7 +225,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/financial$professional_kline_chart.coverage" NAME="professional_kline_chart Coverage Results" MODIFIED="1575968457175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
-    <SUITE FILE_PATH="coverage/financial$professional_kline_brush.coverage" NAME="professional_kline_brush Coverage Results" MODIFIED="1575968430253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
+    <SUITE FILE_PATH="coverage/financial$professional_kline_brush.coverage" NAME="professional_kline_brush Coverage Results" MODIFIED="1575972423222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
     <SUITE FILE_PATH="coverage/financial$bar_chart_display_delay.coverage" NAME="bar_chart_display_delay Coverage Results" MODIFIED="1575967937571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
     <SUITE FILE_PATH="coverage/financial$echarts_test.coverage" NAME="echarts_test Coverage Results" MODIFIED="1575965929023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/financial$mixed_bar_and_line.coverage" NAME="mixed_bar_and_line Coverage Results" MODIFIED="1575968237393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
