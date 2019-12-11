@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e240a6a-5b96-41d9-ae2e-bf4cbf6744dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/financial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/financial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +36,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,6 +189,7 @@
       <workItem from="1575637753336" duration="4303000" />
       <workItem from="1575885718818" duration="5235000" />
       <workItem from="1575953251754" duration="15618000" />
+      <workItem from="1576044405368" duration="3733000" />
     </task>
     <servers />
   </component>
@@ -223,17 +226,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/financial$professional_kline_chart.coverage" NAME="professional_kline_chart Coverage Results" MODIFIED="1575968457175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
-    <SUITE FILE_PATH="coverage/financial$professional_kline_brush.coverage" NAME="professional_kline_brush Coverage Results" MODIFIED="1575972423222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
     <SUITE FILE_PATH="coverage/financial$bar_chart_display_delay.coverage" NAME="bar_chart_display_delay Coverage Results" MODIFIED="1575967937571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
-    <SUITE FILE_PATH="coverage/financial$echarts_test.coverage" NAME="echarts_test Coverage Results" MODIFIED="1575965929023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/financial$mixed_bar_and_line.coverage" NAME="mixed_bar_and_line Coverage Results" MODIFIED="1575968237393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
-    <SUITE FILE_PATH="coverage/financial$SH_stock.coverage" NAME="SH_stock Coverage Results" MODIFIED="1575964368959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/financial$basic_candlestick.coverage" NAME="basic_candlestick Coverage Results" MODIFIED="1575969736803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
-    <SUITE FILE_PATH="coverage/financial$multiple_y_axes.coverage" NAME="multiple_y_axes Coverage Results" MODIFIED="1575968406986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
-    <SUITE FILE_PATH="coverage/financial$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1575953505598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/financial$aaaa.coverage" NAME="aaaa Coverage Results" MODIFIED="1575967845458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
+    <SUITE FILE_PATH="coverage/financial$echarts_test.coverage" NAME="echarts_test Coverage Results" MODIFIED="1575965929023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/financial$professional_kline_chart.coverage" NAME="professional_kline_chart Coverage Results" MODIFIED="1575968457175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
     <SUITE FILE_PATH="coverage/financial$finance_indices_2002.coverage" NAME="finance_indices_2002 Coverage Results" MODIFIED="1575968069050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
+    <SUITE FILE_PATH="coverage/financial$SH_stock.coverage" NAME="SH_stock Coverage Results" MODIFIED="1575964368959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/financial$aaaa.coverage" NAME="aaaa Coverage Results" MODIFIED="1575967845458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
     <SUITE FILE_PATH="coverage/financial$db_connection.coverage" NAME="db_connection Coverage Results" MODIFIED="1575642373898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/financial$multiple_y_axes.coverage" NAME="multiple_y_axes Coverage Results" MODIFIED="1575968406986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
+    <SUITE FILE_PATH="coverage/financial$professional_kline_brush.coverage" NAME="professional_kline_brush Coverage Results" MODIFIED="1575972423222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
+    <SUITE FILE_PATH="coverage/financial$mixed_bar_and_line.coverage" NAME="mixed_bar_and_line Coverage Results" MODIFIED="1575968237393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
+    <SUITE FILE_PATH="coverage/financial$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1575953505598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
