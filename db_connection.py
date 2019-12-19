@@ -41,6 +41,6 @@ for row in data:
     # print(datetime, preclosepx, openpx, highpx, lowpx, lastpx, end='\n')
 db.close()
 
-f = open(jsonfile_savepath, 'w')
-f.write(json.dumps(stock_json))
-f.close()
+# f = open(jsonfile_savepath, 'w')
+# f.write(json.dumps(stock_json))
+# f.close()
