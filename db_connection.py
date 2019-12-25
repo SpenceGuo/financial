@@ -2,7 +2,7 @@ import pymysql
 import pymongo
 import json
 
-servername = "10.10.11.2"
+servername = "202.120.36.28:23306"
 port = "23306"
 username = "qi"
 password = "password"
