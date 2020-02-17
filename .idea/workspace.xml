@@ -191,6 +191,7 @@
       <workItem from="1576044405368" duration="3733000" />
       <workItem from="1576729726385" duration="2707000" />
       <workItem from="1577212016609" duration="6849000" />
+      <workItem from="1577244451628" duration="200000" />
     </task>
     <servers />
   </component>
@@ -237,7 +238,7 @@
     <SUITE FILE_PATH="coverage/financial$basic_candlestick.coverage" NAME="basic_candlestick Coverage Results" MODIFIED="1575969736803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
     <SUITE FILE_PATH="coverage/financial$professional_kline_chart.coverage" NAME="professional_kline_chart Coverage Results" MODIFIED="1575968457175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Candlestick" />
     <SUITE FILE_PATH="coverage/financial$SH_stock.coverage" NAME="SH_stock Coverage Results" MODIFIED="1575964368959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/financial$db_connection.coverage" NAME="db_connection Coverage Results" MODIFIED="1577224221429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/financial$db_connection.coverage" NAME="db_connection Coverage Results" MODIFIED="1577244619231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/financial$multiple_y_axes.coverage" NAME="multiple_y_axes Coverage Results" MODIFIED="1575968406986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts_gallery/Bar" />
     <SUITE FILE_PATH="coverage/financial$path2DB.coverage" NAME="path2DB Coverage Results" MODIFIED="1577223973339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/financial$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1577224005115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
